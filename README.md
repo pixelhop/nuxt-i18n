@@ -1,5 +1,6 @@
 # nuxt
 
+
 ## Build Setup
 
 ```bash
